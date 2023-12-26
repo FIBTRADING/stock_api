@@ -2,8 +2,8 @@
 #include <ArduinoJson.h>
 #include <WiFi.h> // Include the ESP32 WiFi library
 
-const char* ssid = "BHAVIK";
-const char* pass = "w6rd5kqn";
+const char* ssid = "asdghh";
+const char* pass = "abcdefd";
 
 const int maxDataPoints = 50;
 const int numCompanies = 1;
